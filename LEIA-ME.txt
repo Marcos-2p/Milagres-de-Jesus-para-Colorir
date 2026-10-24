@@ -1,0 +1,8 @@
+PEQUENAS LUZES KIDS — SITE
+
+1. Extraia esta pasta.
+2. Abra index.html no navegador para visualizar.
+3. O botão de compra já está conectado ao checkout Kiwify: https://pay.kiwify.com.br/1DZOYIM
+4. Antes de divulgar, abra o checkout e confirme se Pix é a única forma de pagamento ativa.
+5. O link enviado anteriormente (kiwify.app/bIoe1bV) não parece ser um endereço do Instagram. O botão do Instagram não foi adicionado porque ainda precisamos do link real do perfil.
+6. Para publicar no GitHub Pages, envie todos os arquivos e pastas desta pasta para a raiz do repositório; depois, em Settings > Pages, selecione Deploy from a branch, branch main e pasta /(root).
